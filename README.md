@@ -1,5 +1,5 @@
-# Modern UI/UX GPT-3
+# Modern GPT-3 Website
 
-### [Live Site](https://gpt3-net.netlify.app/)
+### [>>> Live Site](https://gpt3-net.netlify.app/)
 
-![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
+![Modern GPT-3 Website](https://i.ibb.co/TR5LW9z/image.png)
